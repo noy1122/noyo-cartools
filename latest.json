@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "url": "https://github.com/noy1122/noyo-cartools/releases/download/v1.2/app-release.apk",
-  "notes": "Fix onboarding screen stuck on car display",
-  "sha256": "083544bf5a3657ca4da99d247b3530d5c5a083b1f1b7912f73879cc0008115ee",
-  "sig": "Bxq4Tx2yIEuThXR3EdLZ5NLjHg57pgRXu-i5J442xAQ5rOFq3pThQA-E5yYAKU4FktgKivF68T6hOHM0yuZ5NTDoIpaLKZXBNz-AU-99CG59NOt1jEyDQKbfTHr2s5-_Ug4EvYN_lyEVH8w_kszxkCKt7dGPXNalGg1JlCR0eWWu9TD9PxHJ6vz1PE_SwFtatjnvY1mmWwBIXPbDQqre9DZMeI5fzXp_2IrDMEuJ313DLzy-0HAzVI6mja7XvXPqnhf_cD4bDKcxJoiXP6T5WvKx3FV7mWVppzTbAKFkRv-cChLvgdSLLk0i9XLssw1imahuV9fcRZciGKBpmmBKRQ"
+  "versionCode": 5,
+  "versionName": "1.4",
+  "url": "https://github.com/noy1122/noyo-cartools/releases/download/v1.4/app-release.apk",
+  "notes": "Fix release build (gibberish/icons), onboarding readable + scrollable, Wi-Fi auto-connect, anti-reset on ignition",
+  "sha256": "5bfad84d85911c010ce43c7e960142acb7915fb089a33be20aa1f8c83382e213",
+  "sig": "jicQvai9O086nnKS_bSplbCBbPAM5nS4L_asAOiB8FOdSNtbPEYznOZca0P2UQzY8cYfX_FKCKFGtZdpd9RZO5MjZAW6u6zvz1oaslBswcvivMXGL_fWWR12lYhWzVJ-_qBCl3wGhBjdQg6cGZVnWuPC-U6_-FrTTc2fnXfJ1L6h9-Sfqmr9qLtgrgsPiWnrNvIkLPTNX8nOMMEBBKmrUWvz8J3JfCtiI4UiA_xv52KqCrh7vA6hHFJqraBtEq-jgmgSNJyodB8CweCX89BR3f4Wq0NTyw3iYsiDQB7EmcCnuxz1K1y_-JVpcnthkIZ4177e-n-xRw8xgN-jn56xog"
 }
