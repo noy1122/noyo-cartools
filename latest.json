@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "url": "https://github.com/noy1122/noyo-cartools/releases/download/v1.4/app-release.apk",
-  "notes": "Fix release build (gibberish/icons), onboarding readable + scrollable, Wi-Fi auto-connect, anti-reset on ignition",
-  "sha256": "5bfad84d85911c010ce43c7e960142acb7915fb089a33be20aa1f8c83382e213",
-  "sig": "jicQvai9O086nnKS_bSplbCBbPAM5nS4L_asAOiB8FOdSNtbPEYznOZca0P2UQzY8cYfX_FKCKFGtZdpd9RZO5MjZAW6u6zvz1oaslBswcvivMXGL_fWWR12lYhWzVJ-_qBCl3wGhBjdQg6cGZVnWuPC-U6_-FrTTc2fnXfJ1L6h9-Sfqmr9qLtgrgsPiWnrNvIkLPTNX8nOMMEBBKmrUWvz8J3JfCtiI4UiA_xv52KqCrh7vA6hHFJqraBtEq-jgmgSNJyodB8CweCX89BR3f4Wq0NTyw3iYsiDQB7EmcCnuxz1K1y_-JVpcnthkIZ4177e-n-xRw8xgN-jn56xog"
+  "versionCode": 7,
+  "versionName": "1.6",
+  "url": "https://github.com/noy1122/noyo-cartools/releases/download/v1.6/app-release.apk",
+  "notes": "Fix garbled emoji icons (encoding repair across 19 screens) + redesigned onboarding (real dots, compact buttons, fits screen)",
+  "sha256": "0a4a34c67edb40a3d231d6e82bb55e3d2061a6ed9377f8fee7f90f988cd6916d",
+  "sig": "O7Tu70D1yQilljasqRtqPlNk_oYSrLtrBVpOXQ2XKwnXMRWJCSkxr5iIcCYEin0H-42A57mwPuM1AxFHhUHyrdjidR8leF4GYsE_wUrapFoBRmzYiw_Ai8giT8FZSAfbmu-RYl3TDwumB5DwqFC9WIGP1GhMbGeRyLWFWXET8ZDH2_uF61Z6QPdV7J022bf8ZHNvfXWc9gr1fQTRH_1Hv6oykMwc8X2-m-WL5ao8fFtiP7BqRxZDbS6wQQitHGncTDxp2qgEA2FiPaKsxD19x0BrWU0MoI2gTPMYktlUa5y8y8SSzX1FiWt2B4YXlj9zH0pa6zFbxAZn72zIbhMXZQ"
 }
