@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "url": "https://github.com/noy1122/noyo-cartools/releases/download/v1.6/app-release.apk",
-  "notes": "Fix garbled emoji icons (encoding repair across 19 screens) + redesigned onboarding (real dots, compact buttons, fits screen)",
-  "sha256": "0a4a34c67edb40a3d231d6e82bb55e3d2061a6ed9377f8fee7f90f988cd6916d",
-  "sig": "O7Tu70D1yQilljasqRtqPlNk_oYSrLtrBVpOXQ2XKwnXMRWJCSkxr5iIcCYEin0H-42A57mwPuM1AxFHhUHyrdjidR8leF4GYsE_wUrapFoBRmzYiw_Ai8giT8FZSAfbmu-RYl3TDwumB5DwqFC9WIGP1GhMbGeRyLWFWXET8ZDH2_uF61Z6QPdV7J022bf8ZHNvfXWc9gr1fQTRH_1Hv6oykMwc8X2-m-WL5ao8fFtiP7BqRxZDbS6wQQitHGncTDxp2qgEA2FiPaKsxD19x0BrWU0MoI2gTPMYktlUa5y8y8SSzX1FiWt2B4YXlj9zH0pa6zFbxAZn72zIbhMXZQ"
+  "versionCode": 21,
+  "versionName": "3.0",
+  "url": "https://github.com/noy1122/noyo-cartools/releases/download/v3.0/app-release.apk",
+  "notes": "Real car data via VDBus (battery/range/temp/speed/gear), capability auto-detect, anti-reset, drive-mode write test, adaptive screen",
+  "sha256": "c892f7ede5a4d464a258b671b595b972e22679931dfffa864ef0f98f832e885d",
+  "sig": "UgbF_nqplSri3XzP69cdV7F_mRy_hvwV0Rok1sw3rk4ypOGytTqGz6i46gzRCHc6mMRcroY1XfsRKLCeYkXa430MLWwFA4AIhPx4MrXK-1pHww-KtFoDX3AZsMdb1PewxGW55TdtuMyiOV_iPBg1jzEeCU8cpqO98FwkAQ5C4g748DlaiY69CenLivFen6CRSFYLUVCMiXHefVBBKg899HvNCAq2EIUEeh6FsT88WCf94JevmmHExBQt_VishqlQMI-KZtgNg0Iv2mjJk0ny5xSIttE0A7wVIBLOD-XqYod20GtFqTAv_XZEyHXIV72u1V_58_K_5r8J78GimOB3fA"
 }
