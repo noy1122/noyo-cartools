@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "3.1",
-  "url": "https://github.com/noy1122/noyo-cartools/releases/download/v3.1/app-release.apk",
-  "notes": "Drive-mode write via OEM sequence (cmd97+cmd4); gear shows raw value to map",
-  "sha256": "b9c7579cf7b8b5a1133cedfc4e0f07901d2832af15e1ec3380fdfb2a62d929c3",
-  "sig": "PIVRbIIUAEedkRVLhjJm6EHoH8Ofb1w_cd8DZKL-SOx9Vw3E5ytsRjIWO0i6zkzcoK2SIjpwRWKCRQ_nA5ItvVIVjkPqScAWoLuK5ZGofgAbH171gKdmbG7z6kmUjsRowtEmzgJamkWjDyW4QLszMgUQdYLIIR4gddCuEhEm97Qw0dOn5lmkNjUn4VjW5hTG4wPvDL6euNFq1sBLVudJ8aneawHGDDrQ1Kz_fYRm3TfAWLGKVHklx4XNE2rohSDLqGT4ZNApGKU6a0H4N1FaqK4mRC_iLXVY-HLpvnhoOY2t4rTjyC6V0AVfPjneL5GScBAgO7jJE2fp0xeXDK674A"
+  "versionCode": 23,
+  "versionName": "3.2",
+  "url": "https://github.com/noy1122/noyo-cartools/releases/download/v3.2/app-release.apk",
+  "notes": "Live dashboard updates, real P/R/N/D gear display, ignition-state diagnostics for drive-mode write",
+  "sha256": "2bc907988d8754f676737b672b5ccafb3f00bb552116e0312fb90e1842bcfc83",
+  "sig": "Q6C3Mm-Tzc8FW5wu9rWPbUV3LRKv-hn56XwqTrgK2bVlgKljbY-7WOPrd3N68HXczYzf59DX76-DpmSZ-XLmSi38pa8EuTydBh4depQgQW2RhgFc4_v4I_G531pKwTF5ezlvRL1AVVx3JGhlscX4PlKEXOcK9oXZLPlM8S117-qa2KPt2886QiTGZQ9WZJNY7FTPDIUoUTpd6aW9JZUOdc-eP6QJyBM-s2Y4suAjgShTxW5nAZ3dPPJf1mhp07erj23X08n9URvF8PhTLEgUXXS2qNWxu-1MLoFStjaZ3bsXsJ_B6iNWdp9YdgrmbEixEyC8ujszeYfwxF5tzcTEqQ"
 }
